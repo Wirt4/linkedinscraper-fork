@@ -1,0 +1,23 @@
+What is a proxy server?
+why is flask necessary if I'm hosting this locally?
+What is Requests?
+what is Pysocks?
+Do I use pip for package management?
+Why is there only one test?
+What goes into the config.json?
+What is the difference between python main.py and python app.py?
+Why use a web interface instead of reading the raw data?
+Can I extend the functionality to un-hide a job posting?
+do I already have an open AI key I can use to generate cover letters?
+How much would it cost per cover letter?
+Does this advocate a template resume style?
+what does "f_WT" stand for?
+can I search for multiple locations?
+why is r84600 for past 24 hours?
+what is the difference between jobs_tablename and filtered_jobs_tablename?
+should I host the SQLite table on my machine?
+what is the cost of an upper limit of pages_to_scrape?
+what is a cron job?
+what is the advantage to setting up a "rounds" variable?
+why isn't there a function to sort jobs by date added added to the databasse
+

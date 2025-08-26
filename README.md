@@ -30,7 +30,7 @@ If you are using this application, please be aware that LinkedIn does not allow 
 1. Clone the repository to your local machine.
 2. Install the required packages using pip: `pip install -r requirements.txt`
 3. Create a `config.json` file in the root directory of the project. See the `config.json` section below for details on the configuration options. Config_example.json is provided as an example, feel free to use it as a template.
-4. Run the scraper using the command `python main.py`. Note: run this first first to populate the database with job postings prior to running app.py.
+4. Run the scraper using the command `python main.py`. Note: run this first to populate the database with job postings prior to running app.py.
 4. Run the application using the command `python app.py`.
 5. Open a web browser and navigate to `http://127.0.0.1:5000` to view the job postings.
 
@@ -105,6 +105,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ### License
 
-This project is licensed under the MIT License.X
+This project is licensed under the MIT License.
 Write README.md file for this project. Make it detailed as possible.
-X
+
